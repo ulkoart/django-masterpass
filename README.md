@@ -2,11 +2,11 @@
 
 ## Installation
 
-###Install with pip:
+### Install with pip:
 
     pip install django-masterpass
     
-##Usage:
+## Usage:
 
 add in `AUTHENTICATION_BACKEND` setting value `django_masterpass.auth.MasterPass`:
 
