@@ -4,7 +4,7 @@ from os.path import join, dirname
 
 setup(
     name='django_masterpass',
-    version='0.0.2',
+    version='0.0.3',
     description='Django master password',
     long_description=open(join(dirname(__file__), 'README.md')).read(),
     long_description_content_type='text/markdown',
